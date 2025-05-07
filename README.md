@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mohamed+Amine+Aabid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Amine+Aabi" alt="Typing SVG" />
 </div>
+
 
 <h1 align="center"> 👋🏻 MOHAMED AMINE AABID</h1>
 <h3 align="center">JR. DATA SCIENTIST</h3>

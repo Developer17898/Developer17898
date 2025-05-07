@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohamed+Amine+Aabi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohamed+Amine+Aabid" alt="Typing SVG" />
 </div>
 
 
@@ -80,3 +80,4 @@ I am a first-year Master's student in **Science et Ingénierie des Données** at
 ---
 
 🔗 *Feel free to connect and explore my repositories!*  
+
